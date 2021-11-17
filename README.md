@@ -1,2 +1,2 @@
 # JAVA-Program-On-OOPS
-for college
+For college
